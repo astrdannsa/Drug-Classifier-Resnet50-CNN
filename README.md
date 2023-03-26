@@ -12,6 +12,7 @@ Siapkan dataset pada folder "MedClass" pada Google Drive anda. Dataset terdiri d
 * [vivekprajapati2048 - Fruit Identification System](https://github.com/vivekprajapati2048/Fruit-Identification-System)
 * [advaitsave - CNN Image Classification](https://github.com/advaitsave/CNN-Image-Classification-and-Flask-Deployment)
 
-## Contributors' Contacts ##
-* [Astrid's LinkedIn](https://www.linkedin.com/in/astridannisa/)
+## Author's Contact ##
+* [Astrid's LinkedIn](https://www.linkedin.com/in/astridannisa/) 
+## Contributor's Contact ##
 * [Fattah's LinkedIn](https://www.linkedin.com/in/muhammad24fattah/)
