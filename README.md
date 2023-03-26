@@ -1,5 +1,5 @@
 # Drug-Classifier-Resnet50-CNN
-Kode ini dibuat sebagai proof-of-concept pengklasifikasian obat (drug) menggunakan CNN dengan ResNet50 pada dataset ["Pharmaceutical Drugs and Vitamins Synthetic Images dataset" yang disediakan Marionette](https://www.kaggle.com/datasets/vencerlanz09/pharmaceutical-drugs-and-vitamins-synthetic-images)
+Kode ini dibuat sebagai proof-of-concept pengklasifikasian obat (drug) menggunakan CNN dengan ResNet50 pada dataset ["Pharmaceutical Drugs and Vitamins Synthetic Images dataset"](https://www.kaggle.com/datasets/vencerlanz09/pharmaceutical-drugs-and-vitamins-synthetic-images) yang disediakan [Marionette](https://www.kaggle.com/vencerlanz09)
 
 ##Cara Penggunaan##
 1. Install semua library yang dibutuhkan dengan menjalankan code pada bagian "Menyiapkan Workspace"
